@@ -19,4 +19,4 @@ Devon::Devon()
  }
 ```
 - 👋 Hi, I’m @DevonAvans
-- 📫 This is my schoolaccount, please check: @DevonThomassen on Github!
+- 📫 This is my schoolaccount, please check: [@DevonThomassen](https://github.com/DevonThomassen) on Github!
